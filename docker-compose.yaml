@@ -2,65 +2,103 @@ version: "3.7"
 
 services:
 
-  samba:
-    image: dperson/samba # no hay tag con versiones, solo latest
-    restart: always
-    command: '-u "pi;password" -s "media;/media;yes;no" -s "downloads;/downloads;yes;no"'
-    stdin_open: true
-    tty: true
-    environment:
-      - TZ=America/Argentina/Mendoza
-    ports:
-      - 139:139
-      - 445:445
+  heimdall:
+    image: ghcr.io/linuxserver/heimdall
+    container_name: heimdall
     volumes:
-      - ${MEDIA}:/media
-      - ${STORAGE}/torrents:/downloads
+      - /home/casaruben/plex-rpi/heimdall:/config
+    ports:
+      - 8081:80
+    restart: unless-stopped
+
+#-------------------------------------------------------------------------------
 
   plex:
-    image: jaymoulin/plex:1.30.1.6562
-    expose:
-      - 32400
-      - 33400
-    # Descomentar si NO usas network_mode: "host"
-    # ports:
-    #  - 32400:32400
-    #  - 33400:33400
+    image: lscr.io/linuxserver/plex:latest
+    network_mode: "host"
     environment:
-      - TZ=America/Argentina/Mendoza
+      - TZ=Europe/Madrid
     volumes:
-      - ${STORAGE}/Plex Media Server:/root/Library/Application Support/Plex Media Server
-      - ${MEDIA}:/media
-      - ${STORAGE}/tmp:/tmp
+      - /mnt/nas/plex:/root/Library/Application Support/Plex Media Server
+      - /mnt/nas/media:/media
+      - /tmp:/tmp
     restart: unless-stopped
-    network_mode: "host" # Solo funciona en Linux
+
+#-------------------------------------------------------------------------------
 
   transmission:
-    image : jaymoulin/transmission:3.00-1.6.1
+    image: jaymoulin/transmission:3.00-1.6.1
     command: transmission-daemon -f -g /config
     volumes:
       - ./transmission:/config
-      - ${STORAGE}/torrents:/downloads
+      - /mnt/nas/torrents:/downloads
     ports:
       - 9091:9091
       - 51413:51413
       - 51413:51413/udp
-    expose:
-      - 9091
     restart: unless-stopped
 
-  flexget:
-    image: wiserain/flexget:3.5
-    volumes:
-      - ./flexget:/config
-      - ./flexget/custom-cont-init.d:/custom-cont-init.d
-      - ${STORAGE}/torrents:/downloads
-      - ${MEDIA}:/storage
-    ports:
-      - 5050:5050
+#-------------------------------------------------------------------------------
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
     environment:
-      - PUID=1001
-      - PGID=1001
-      - TORRENT_PLUGIN=transmission
-      - FG_WEBUI_PASSWD=p3l4d0_N3RD # la puedes cambiar por la que quieras
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Madrid
+    volumes:
+      - /home/casaruben/plex-rpi/radarr:/config
+      - /mnt/nas/media:/media
+      - /mnt/nas/torrents:/downloads
+    ports:
+      - 7878:7878
+    restart: unless-stopped
+
+#-------------------------------------------------------------------------------
+
+  sonarr:
+    image: linuxserver/sonarr
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Madrid
+    volumes:
+      - /home/casaruben/plex-rpi/sonarr:/config
+      - /mnt/nas/media:/media
+      - /mnt/nas/torrents:/downloads
+    ports:
+      - 8989:8989
+    restart: unless-stopped
+
+#-------------------------------------------------------------------------------
+
+  jackett:
+    image: linuxserver/jackett
+    container_name: jackett
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Madrid
+    volumes:
+      - /home/casaruben/plex-rpi/jackett:/config
+      - /mnt/nas/torrents:/downloads
+    ports:
+      - 9117:9117
+    restart: unless-stopped
+
+#-------------------------------------------------------------------------------
+
+  overseerr:
+    image: sctx/overseerr:latest
+    container_name: overseerr
+    environment:
+      - TZ=Europe/Madrid
+      - PUID=1000
+      - PGID=1000
+    volumes:
+      - /home/casaruben/plex-rpi/overseerr:/app/config # 
+    ports:
+      - 5055:5055
     restart: unless-stopped

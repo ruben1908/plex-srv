@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www15.mejortorrent.rip/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "XSRF-TOKEN=eyJpdiI6InRFYXJ2R1YwamlBak8yaGtLTk5QY1E9PSIsInZhbHVlIjoiRk5FSjVHR0ZaMDczTXJtS092aXRvT0dBMmFEQXRNUTB5SzBIZjlFRjB2czUzUlVDU2lNNTBISk9iTWgveTJhN3Y3SnFrTjJEc0p2ZkVYN3E3bzRQaXdTeXdiZFlwcklCdzdFQTZjZnE1MHVJemI3YVVobWtVa21XTUEyK1NOZnoiLCJtYWMiOiI4NDQ3MjBjNzgxZjZhOTU0YTFiNTI1ZWM3ZmI4OWMwYmQ3MzcwOGRlMjQxYzQ1NTIzM2Q3YjY1Yjc1NDVmMWJhIiwidGFnIjoiIn0%3D; torrent_session=eyJpdiI6IitNaG9UUGJsZ1FVSlZMcG84ak1vOGc9PSIsInZhbHVlIjoiQ2FLREJKZXJwY2tVaGRWUzJPOU5HbkhiZDQyTm8zSE4zRENKOC91RU40OHozL2Z6UnFYOHZTVm8wYWVIRTYwQ3draStrZC9kRHVmSHJTVXU4S05PZEdkMmIrSkN2NFJQMThtOUpNZkV1dzg0Wmg4Q1pOckQyNVlCOTV1Z2IxdzYiLCJtYWMiOiI4NzAyOWZhMjI1ZDdiY2Q0ODU3NGNkZGJhN2I0ODFjMmNjZTUxMWE0MzZiMjQwMzE0N2VjZWVlYTk3ZmIyNDA4IiwidGFnIjoiIn0%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "matchwordsintitle",
+    "type": "inputbool",
+    "name": "Match words in title",
+    "value": true
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

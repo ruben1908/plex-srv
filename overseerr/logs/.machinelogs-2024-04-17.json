@@ -1,0 +1,447 @@
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2024-04-17T19:53:56.062Z"}
+{"level":"info","message":"Starting Overseerr version 1.33.2","timestamp":"2024-04-17T19:53:58.303Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-04-17T19:54:06.054Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2024-04-17T19:54:06.160Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-04-17T19:54:06.757Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T19:55:00.040Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T19:55:00.109Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4dcdfedb-3229-4f08-abe7-8062fc5cb36b","timestamp":"2024-04-17T19:55:00.111Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T19:55:00.994Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T19:55:00.996Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T19:55:00.998Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T19:56:00.020Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T19:56:03.105Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T19:56:03.109Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T19:57:00.768Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T19:57:03.850Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T19:57:03.855Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T19:58:00.030Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T19:58:03.852Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T19:58:03.855Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T19:59:00.771Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T19:59:03.851Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T19:59:03.854Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:00:00.268Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:00:00.290Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"86a26c66-e191-413e-a0e2-6c8299b444bc","timestamp":"2024-04-17T20:00:00.291Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:00:04.035Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:00:04.038Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:00:04.040Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:01:00.019Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:01:03.088Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:01:03.090Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:02:00.763Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:02:03.838Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:02:03.840Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:03:00.029Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:03:03.115Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:03:03.117Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:04:00.521Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:04:03.582Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:04:03.584Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:05:00.531Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:05:00.563Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4e1fdf9a-af75-47ea-a1dc-83a93ce80fc4","timestamp":"2024-04-17T20:05:00.564Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:05:03.627Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:05:03.629Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:05:03.631Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:06:00.014Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:06:03.105Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:06:03.106Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:07:00.762Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:07:03.819Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:07:03.822Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:08:00.266Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:08:03.332Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:08:03.334Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:09:00.016Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:09:03.090Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:09:03.092Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:10:00.788Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:10:00.828Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"c1267dbe-f5bc-4017-990f-7329269e60fb","timestamp":"2024-04-17T20:10:00.829Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:10:03.873Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:10:03.875Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:10:03.876Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:11:00.012Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:11:02.764Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:11:02.766Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:12:00.513Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:12:02.560Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:12:02.562Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:13:00.516Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:13:03.605Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:13:03.607Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:14:00.006Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:14:03.070Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:14:03.072Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2024-04-17T20:14:06.127Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:15:00.765Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:15:00.776Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"e78752c8-b476-45c4-b9cb-2a775b615ae5","timestamp":"2024-04-17T20:15:00.777Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:15:03.821Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:15:03.823Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:15:03.825Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:16:00.262Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:16:03.335Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:16:03.337Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:17:00.014Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:17:03.092Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:17:03.094Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:18:00.506Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:18:03.560Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:18:03.562Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:19:00.020Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:19:03.080Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:19:03.083Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:20:00.509Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:20:00.535Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"d172dbcc-658b-4d8c-a913-fe0da5d842fb","timestamp":"2024-04-17T20:20:00.537Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:20:03.576Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:20:03.579Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:20:03.580Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:21:00.261Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:21:03.317Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:21:03.318Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:22:00.013Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:22:03.073Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:22:03.073Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:23:00.766Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:23:03.824Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:23:03.827Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:24:00.262Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:24:03.337Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:24:03.339Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:25:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:25:00.030Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"05d4ec43-b7ec-40d8-9b38-364c05ec6974","timestamp":"2024-04-17T20:25:00.032Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:25:03.094Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:25:03.096Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:25:03.097Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:26:00.014Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:26:03.094Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:26:03.096Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:27:00.512Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:27:03.594Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:27:03.596Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:28:00.510Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:28:03.578Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:28:03.580Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2024-04-17T20:28:57.819Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:29:00.016Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:29:03.096Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:29:03.098Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:30:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:30:00.025Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"1ff7f484-69f0-43e6-b242-110a376f1a72","timestamp":"2024-04-17T20:30:00.026Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:30:03.076Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:30:03.078Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:30:03.080Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:31:00.763Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:31:03.824Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:31:03.826Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:32:00.316Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:32:03.372Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:32:03.374Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:33:00.060Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:33:03.116Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:33:03.119Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:34:00.012Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:34:03.096Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:34:03.099Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:35:00.566Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:35:00.582Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"13d92409-d82f-432b-b8dd-8bd26aee4d86","timestamp":"2024-04-17T20:35:00.583Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:35:03.628Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:35:03.630Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:35:03.632Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:36:00.561Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:36:03.643Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:36:03.645Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:37:00.283Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:37:03.356Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:37:03.358Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:38:00.010Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:38:03.077Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:38:03.079Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2024-04-17T20:39:41.350Z"}
+{"level":"info","message":"Starting Overseerr version 1.33.2","timestamp":"2024-04-17T20:39:42.955Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-04-17T20:39:48.844Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2024-04-17T20:39:48.895Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-04-17T20:39:49.387Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2024-04-17T20:41:49.823Z"}
+{"level":"info","message":"Starting Overseerr version 1.33.2","timestamp":"2024-04-17T20:41:51.503Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-04-17T20:41:57.369Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2024-04-17T20:41:57.458Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-04-17T20:41:58.168Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:42:00.009Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:42:00.222Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:42:00.228Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:43:00.017Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:43:03.098Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:43:03.102Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:44:00.271Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:44:03.349Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:44:03.352Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:45:00.032Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:45:00.063Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"0d04f9f0-d212-4b47-8987-eb01f6ca2085","timestamp":"2024-04-17T20:45:00.065Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:45:03.108Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:45:03.109Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:45:03.112Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:46:00.781Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:46:03.858Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:46:03.860Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:47:00.286Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:47:03.372Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:47:03.375Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:48:00.028Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:48:03.115Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:48:03.117Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:49:00.274Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:49:03.333Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:49:03.335Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:50:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:50:00.041Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"37ecc4ac-55c4-414d-983c-9b6084ebffb0","timestamp":"2024-04-17T20:50:00.042Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:50:03.088Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:50:03.090Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:50:03.091Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:51:00.788Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:51:03.871Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:51:03.874Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:52:00.273Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:52:03.353Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:52:03.355Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:53:00.016Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:53:03.076Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:53:03.078Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:54:00.781Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:54:03.860Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:54:03.864Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T20:55:00.015Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T20:55:00.040Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"764ec188-d43a-4f8d-82ee-f35d242ee067","timestamp":"2024-04-17T20:55:00.041Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T20:55:03.103Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T20:55:03.105Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T20:55:03.106Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2024-04-17T20:59:22.277Z"}
+{"level":"info","message":"Starting Overseerr version 1.33.2","timestamp":"2024-04-17T20:59:24.277Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-04-17T20:59:29.695Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2024-04-17T20:59:29.750Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-04-17T20:59:30.253Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:00:00.459Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:00:00.542Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"ca35880a-c119-4728-a68d-3c02aa62c308","timestamp":"2024-04-17T21:00:00.544Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:00:03.575Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:00:03.577Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:00:03.579Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:01:00.790Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:01:03.874Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:01:03.876Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2024-04-17T21:04:06.223Z"}
+{"level":"info","message":"Starting Overseerr version 1.33.2","timestamp":"2024-04-17T21:04:08.039Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-04-17T21:04:14.239Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2024-04-17T21:04:14.369Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-04-17T21:04:14.782Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:05:00.764Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:05:00.821Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"be1cd761-d80d-4120-86eb-8b4129f5c9a4","timestamp":"2024-04-17T21:05:00.823Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:05:03.869Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:05:03.871Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:05:03.873Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:06:00.044Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:06:03.569Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:06:03.571Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:07:00.509Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:07:03.569Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:07:03.572Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:08:00.577Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:08:03.655Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:08:03.659Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:09:00.317Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:09:03.385Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:09:03.388Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:10:00.010Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:10:00.043Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"440f6d5f-1956-40c8-aba2-261dc9bb3703","timestamp":"2024-04-17T21:10:00.045Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:10:03.087Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:10:03.089Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:10:03.091Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:11:00.813Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:11:03.900Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:11:03.903Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:12:00.320Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:12:03.381Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:12:03.383Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:13:00.063Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:13:02.626Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:13:02.628Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:14:00.319Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:14:03.407Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:14:03.410Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:15:00.039Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:15:00.076Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"50755bd2-a51a-4966-aa5b-5640ffa288e4","timestamp":"2024-04-17T21:15:00.085Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:15:03.132Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:15:03.134Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:15:03.136Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:16:00.809Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:16:03.875Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:16:03.877Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:17:00.561Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:17:03.646Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:17:03.650Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:18:00.311Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:18:03.383Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:18:03.385Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:19:00.017Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:19:03.108Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:19:03.110Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:20:00.805Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:20:00.851Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"7fdb366b-15b1-43fa-af24-0f0122bc536a","timestamp":"2024-04-17T21:20:00.852Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:20:03.890Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:20:03.892Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:20:03.893Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:21:00.011Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:21:03.101Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:21:03.103Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:22:00.795Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:22:03.884Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:22:03.886Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:23:00.302Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:23:03.366Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:23:03.368Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:24:00.012Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:24:03.089Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:24:03.091Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2024-04-17T21:24:14.313Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:25:00.772Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:25:00.792Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"d9868468-34db-4a82-aec5-34947c3ea077","timestamp":"2024-04-17T21:25:00.793Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:25:03.834Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:25:03.836Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:25:03.838Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:26:00.317Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:26:03.385Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:26:03.387Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:27:00.058Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:27:03.129Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:27:03.133Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:28:00.558Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:28:03.628Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:28:03.630Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:29:00.311Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:29:03.398Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:29:03.400Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:30:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:30:00.040Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"f3aaf397-46a3-488d-93c3-23d5a0343d22","timestamp":"2024-04-17T21:30:00.040Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:30:03.091Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:30:03.093Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:30:03.094Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:31:00.803Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:31:03.874Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:31:03.875Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:32:00.302Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:32:03.387Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:32:03.389Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:33:00.013Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:33:03.080Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:33:03.082Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:34:00.815Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:34:03.893Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:34:03.895Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:35:00.557Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:35:00.578Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"daeb94c8-8315-40b7-b4aa-e18bb439bb58","timestamp":"2024-04-17T21:35:00.579Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:35:03.627Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:35:03.628Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:35:03.629Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:36:00.011Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:36:03.092Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:36:03.094Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:37:00.781Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:37:03.842Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:37:03.844Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:38:00.293Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:38:03.358Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:38:03.360Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:39:00.011Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:39:03.081Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:39:03.083Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:40:00.798Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:40:00.818Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"2e2f369e-9e39-4851-9740-8b66a0a65ebf","timestamp":"2024-04-17T21:40:00.819Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:40:03.862Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:40:03.864Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:40:03.865Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:41:00.019Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:41:03.076Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:41:03.078Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2024-04-17T21:41:44.849Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:42:00.026Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:42:03.107Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:42:03.109Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:43:00.305Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:43:03.371Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:43:03.373Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:44:00.555Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:44:03.615Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:44:03.617Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:45:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:45:00.031Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"ff052118-9ba6-459b-af1e-2bf6ba8e50a7","timestamp":"2024-04-17T21:45:00.032Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:45:03.083Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:45:03.085Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:45:03.086Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:46:00.784Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:46:03.864Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:46:03.866Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:47:00.011Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:47:03.826Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:47:03.828Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:48:00.802Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:48:03.891Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:48:03.893Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:49:00.303Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:49:03.369Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:49:03.371Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:50:00.560Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:50:00.579Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"e354f639-6f5e-483e-a9bb-9b3ede1ee9cd","timestamp":"2024-04-17T21:50:00.580Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:50:03.617Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:50:03.619Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:50:03.621Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:51:00.011Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:51:03.086Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:51:03.088Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:52:00.804Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:52:03.868Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:52:03.870Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:53:00.305Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:53:03.382Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:53:03.383Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:54:00.046Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:54:02.625Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:54:02.627Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:55:00.302Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2024-04-17T21:55:00.321Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"48a92586-07d5-4357-9ebe-cee6c09c0973","timestamp":"2024-04-17T21:55:00.322Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:55:03.375Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:55:03.377Z"}
+{"errorMessage":"connect EHOSTUNREACH 192.168.1.105:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2024-04-17T21:55:03.378Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2024-04-17T21:55:52.355Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:56:00.014Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:56:03.099Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:56:03.100Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:57:00.801Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:57:03.880Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:57:03.882Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:58:00.301Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:58:03.362Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:58:03.364Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2024-04-17T21:59:00.549Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2024-04-17T21:59:03.608Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: Sonarr","timestamp":"2024-04-17T21:59:03.610Z"}
